@@ -57,7 +57,7 @@ _Principais métodos:_
 
 *Mole*
 
-_Reponsável por:_
+_Responsável por:_
    - Controla as toupeiras, seu tipo (comum, capacete, bomba) e interações.
 
 _Principais métodos:_
@@ -90,3 +90,25 @@ _Principais métodos:_
 - Engine: Unity
 - Linguagem: C# (MonoBehaviour e UnityEngine)
 - Gerenciamento de Dados: PlayerPrefs para armazenamento local.
+
+---
+
+## Citation
+
+Se você usar este projeto em trabalho acadêmico ou aplicado, cite:
+
+```bibtex
+@software{vieira_kang2025_whackamole,
+  author = {Vieira, Bernardo Vivian and Kang, Yeun Haur},
+  title = {Whack-A-Mole: Jogo em Unity (Computação Gráfica e Realidade Virtual)},
+  year = {2025},
+  url = {https://github.com/bernardovvieira/Whack-A-Mole},
+  note = {UPF - Ciência da Computação, 6º semestre}
+}
+```
+
+---
+
+## Licença
+
+Este projeto está sob [Unlicense](License.md) (domínio público).
